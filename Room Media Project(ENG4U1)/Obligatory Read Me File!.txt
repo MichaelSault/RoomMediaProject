@@ -1,0 +1,19 @@
+The fact that the application is in shades of grey is a design choice
+to demonstrate how the room is sort of stuck in time.  The one object
+that is not is the plant which originated outside of the room. 
+
+The source code is available if you want to take a look at what all
+went into the making of this 'game,' if you can call it that.  I
+made the objects themselves in flash and defined their properties
+using actionscript 3.
+
+Bascially what you can expect is an interactive map of the room Jack 
+his mother lived in for over six years, Jack's entire life.  By 
+hovering over the different objects you can see the opinion of the 
+character that file belongs to (ie. Jack, Ma or Old Nick).
+
+This took me a lot longer than it probably should have, but in the
+end I think it turned out really well.  I learned a lot making this
+project and had fun doing it.  Enjoy!
+
+-Michael Sault - ENG 4U1 - 2014/2015-
